@@ -1,15 +1,17 @@
 <!DOCTYPE HTML>
 <HTML>
-    <HEAD><TITLE> EJ5B - Tabla de Multiplicar con TD </TITLE></HEAD>
-    <BODY style="background-color:lightblue;">
-	<style>
-	 table, th, td{
-		 border:1px solid black;
-		 border-collapse: collapse;
-		 padding-right: 35px;
-	 }
-	</style>
+    <HEAD><TITLE> EJ5B - Tabla de Multiplicar con TD </TITLE>
+		<style>
+			 table, th, td{
+			 border:1px solid black;
+			 border-collapse: collapse;
+			 padding-right: 35px;
+				}
+		</style>
 	
+	</HEAD>
+    <BODY style="background-color:lightblue;">
+
 	
         <?php
      
