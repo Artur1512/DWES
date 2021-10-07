@@ -13,7 +13,7 @@
          //mezcla el contenido de los dos arrays de forma aleatoria
         shuffle($aleatorio);
         shuffle($bombo);
-        //creación de array 'cartón' de 15 posiciones y asignación de valores aleatorios de 1 a 60
+        //creación de array 'carton' de 15 posiciones y asignación de valores aleatorios de 1 a 60
         $carton=array();
         echo "CARTÓN 1: ";
              //asignación de los primeros 15 valores de 'aleatorio'
